@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Desarrollando una aplicación (COURSERA)</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nombreCompleto">Nombre completo</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="descripcionContacto">Descripcion Contacto</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="title_activity_confirmar_datos">ConfirmarDatos</string>
+    
+    <string name="confirmar">Confirmar Datos</string>
+    <string name="nom">Nombres:</string>
+    <string name="fec">Fecha:</string>
+    <string name="tel">Teléfono:</string>
+    <string name="ema">Email:</string>
+    <string name="des">Descripción:</string>
+    <string name="editar">Editar Datos</string>
+
+</resources>
